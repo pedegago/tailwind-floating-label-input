@@ -17,4 +17,4 @@ Works with `<input>` and `<textarea>` elements.
   ```
   
 ## TODOs
-  Implement <select> component.
+  Implement `<select>` component.
